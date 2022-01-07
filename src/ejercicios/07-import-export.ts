@@ -1,4 +1,4 @@
-import { Producto, calculaISV } from './ejercicios/06-desestructuracion-funcion';
+import { Producto, calculaISV } from './06-desestructuracion-funcion';
 /*
     ===== Código de TypeScript =====
 */
